@@ -1,0 +1,38 @@
+@import "header.css";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Spoqa Han Sans Neo", "Sans-serif";
+    margin: 0 auto;
+    color: #3f464d;
+}
+
+a {
+    all: unset;
+}
+
+a:link {
+    text-decoration: none;
+    color: #3f464d;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #3f464d; 
+}
+
+a:active {
+    text-decoration: none;
+    color: #3f464d; 
+}
+
+a:hover {
+    text-decoration: none;
+    color: #3f464d; 
+}
+
+
+
